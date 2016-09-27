@@ -1,0 +1,13 @@
+body{
+  background-color:red;
+}
+
+#green{
+  color:green;
+  font-style:italic;
+}
+
+.inline{
+  font-size:30pt;
+  display:inline;
+}

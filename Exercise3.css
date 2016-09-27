@@ -1,0 +1,10 @@
+.paragraph{
+	text-transform:uppercase;
+	font-family: "ariel";
+}
+
+.border{
+	border-width:1px;
+	border-color:Black;
+	border-style:solid;
+}
