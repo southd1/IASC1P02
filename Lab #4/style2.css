@@ -1,0 +1,22 @@
+body{
+	background-color: blue;
+}
+
+.white{
+	margin: 2px 2px 2px 2px;
+	border: white 2px dashed;
+	padding: 20px 20px 20px;
+}
+
+.blue{
+	margin: 20px 20px 20px 20px;
+	border: darkblue 2px dashed;
+	padding: 2px 2px 2px;
+	color: red;
+}
+
+.black{
+	margin: 40px 40px 40px 40px;
+	border: black 2px solid;
+	padding: 2px 2px 2px;
+}
