@@ -1,0 +1,48 @@
+body{
+  background-color: green;
+}
+
+#wrapper{
+  background-color:green;
+  width:800px;
+  height: 800px;
+  margin:0 330px;
+}
+
+#header{
+  background-color:red;
+  width:800px;
+  height:100px;
+}
+
+#nav1{
+  background-color:pink;
+  width:200px;
+  height:80px;
+  float:left;
+}
+
+#nav2{
+  background-color:orange;
+  width:600px;
+  height:80px;
+  float:left;
+}
+
+#content{
+  background-color:blue;
+  width:800px;
+  height:580px;
+  clear:both;
+}
+
+#footer{
+  background-color:yellow;
+  width:800px;
+  height:50px;
+  clear:both;
+}
+
+.header{
+  text-align:center;
+}
