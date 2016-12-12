@@ -1,0 +1,45 @@
+html{
+  background-color: #e6e6ff;
+}
+#Header{
+  margin:0 auto;
+  background-color: #8080ff;
+  font-family:"Courier New", Courier, monospace;
+  text-align:center;
+  height:50px;
+  width:800px;
+}
+
+#Navigation{
+  margin:0 auto;
+  background-color: #8080ff;
+  font-family:"Courier New", Courier, monospace;
+  text-align:center;
+  height:50px;
+  width:800px;
+}
+
+#Content{
+  margin:0 auto;
+  font-family:"Courier New", Courier, monospace;
+  text-align:center;
+  width:800px;
+}
+
+#Content img, #Content button{
+  margin: 0 auto;
+}
+
+#Footer{
+  margin:0 auto;
+  background-color: #8080ff;
+  font-family:"Courier New", Courier, monospace;
+  text-align:center;
+  height:50px;
+  width:800px;
+}
+
+#Button1, #Change{
+  visibility:hidden;
+  display:none;
+}
